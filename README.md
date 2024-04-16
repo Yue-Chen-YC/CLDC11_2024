@@ -1,4 +1,4 @@
-![image](https://github.com/Yue-Chen-YC/CLDC11_2024/assets/166789595/5c85d59d-2a10-4151-9bfb-6f2820ec19e8)## Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data
+## Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data
 
 in [*11th Conference on Language, Discourse, and Cognition 2024*] (https://sites.google.com/g.ntu.edu.tw/cldc-11) (CLDC11 2024)
 
