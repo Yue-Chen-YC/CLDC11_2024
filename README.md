@@ -9,6 +9,4 @@ This study delves into the impact of the Parallel Functioning Hypothesis on vari
 **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster] The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
 
 ## Acknowledgment
-I am deeply grateful to my supervisor Dr. Jesse Harris from UCLA for his guidance and help through out this project; Dr. Stephanie Rich for her help with data collection; UCLA linguistics department for providing financial support for this project; all members of the UCLA language processing lab for their comments and suggestions and the participants who participated in this study. 
-
-
+I am deeply grateful to my undergraduate thesis supervisor Dr. Jesse Harris from UCLA for his guidance and help throughout this project; Dr. Stephanie Rich for her help with data collection; the UCLA linguistics department for providing financial support for this project; all members of the UCLA language processing lab for their comments and suggestions and the participants who participated in this study.
