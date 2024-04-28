@@ -10,3 +10,5 @@ This study delves into the impact of the Parallel Functioning Hypothesis on vari
 
 ## Acknowledgment
 I am deeply grateful to my undergraduate thesis supervisor Dr. Jesse Harris from UCLA for his guidance and help throughout this project; Dr. Stephanie Rich for her help with data collection; the UCLA linguistics department for providing financial support for this project; all members of the UCLA language processing lab for their comments and suggestions and the participants who participated in this study.
+
+## [Pre-recorded video](https://drive.google.com/file/d/1GUs1Ph_o0RY4__PLDZ10K8OASadI7fYc/view?usp=sharing)
