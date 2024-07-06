@@ -12,7 +12,6 @@ This study delves into the impact of the Parallel Functioning Hypothesis on vari
 | Subject  | Object   | Non-Parallel Function       |   **Fiona** defeated in the court and so James congratulated **her** after the match but nobody took any notice |
 
 ## Citation 
-**Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster] The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
 
 ## Acknowledgment
-I am deeply grateful to my undergraduate thesis supervisor Dr. Jesse Harris from UCLA for his guidance and help throughout this project; Dr. Stephanie Rich for her help with data collection; the UCLA linguistics department for providing financial support for this project; all members of the UCLA language processing lab for their comments and suggestions and the participants who participated in this study.
+We are deeply grateful to colleagues and collaborators: Yuqing Liang, Jingyao Liu, Jiaqi Nie, Ranee Cheng, Ashley Chan, Virginia Yip, Zhuang Wu. Research grants awarded to Ziyin Mai: “Input and experience in early trilingual development”, RGC/GRF, 2021-2024; “Input and caretaker proficiency in early bilingual development: mothers, helpers and toddlers ”, RGC/ECS, 2023-2025.}
