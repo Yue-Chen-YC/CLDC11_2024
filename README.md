@@ -10,8 +10,3 @@ This study delves into the impact of the Parallel Functioning Hypothesis on vari
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | Subject  | Subject | Parallel function | **Nathan** disliked Aron and similarly, **he** hated Nicole for a while and in the end, they all avoided each other |
 | Subject  | Object   | Non-Parallel Function       |   **Fiona** defeated in the court and so James congratulated **her** after the match but nobody took any notice |
-
-## Citation 
-
-## Acknowledgment
-We are deeply grateful to colleagues and collaborators: Yuqing Liang, Jingyao Liu, Jiaqi Nie, Ranee Cheng, Ashley Chan, Virginia Yip, Zhuang Wu. Research grants awarded to Ziyin Mai: “Input and experience in early trilingual development”, RGC/GRF, 2021-2024; “Input and caretaker proficiency in early bilingual development: mothers, helpers and toddlers ”, RGC/ECS, 2023-2025.}
